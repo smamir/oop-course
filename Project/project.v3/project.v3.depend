@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1470703905 source:/home/tuhin/Desktop/Project/project.v1/main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	"Others.h"
+	"User.h"
+	"Admin.h"
+
+1470701449 /home/tuhin/Desktop/Project/project.v1/Others.h
+	<iostream>
+
+1470703945 /home/tuhin/Desktop/Project/project.v1/User.h
+	<iostream>
+
+1470703905 /home/tuhin/Desktop/Project/project.v1/Admin.h
+	<iostream>
+
+1470703905 source:/home/tuhin/project.v1/main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	"Others.h"
+	"User.h"
+	"Admin.h"
+
+1470701449 /home/tuhin/project.v1/Others.h
+	<iostream>
+
+1470703945 /home/tuhin/project.v1/User.h
+	<iostream>
+
+1470703905 /home/tuhin/project.v1/Admin.h
+	<iostream>
+
+1470703905 source:/home/tuhin/project.v3/main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	"Others.h"
+	"User.h"
+	"Admin.h"
+
+1470701449 /home/tuhin/project.v3/Others.h
+	<iostream>
+
+1470703945 /home/tuhin/project.v3/User.h
+	<iostream>
+
+1470703905 /home/tuhin/project.v3/Admin.h
+	<iostream>
+
+1470705084 source:/home/tuhin/Desktop/project.v3/main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	"Others.h"
+	"User.h"
+	"Admin.h"
+
+1470701449 /home/tuhin/Desktop/project.v3/Others.h
+	<iostream>
+
+1470715190 /home/tuhin/Desktop/project.v3/User.h
+	<iostream>
+
+1470705103 /home/tuhin/Desktop/project.v3/Admin.h
+	<iostream>
+
