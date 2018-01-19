@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1466954192 source:/tmp/guest-fOvAxO/Desktop/Lab 7/inheritance/main.cpp
+	<iostream>
+	"Vehicles.h"
+	"Passenger.h"
+	"Cargo.h"
+
+1466956635 /tmp/guest-fOvAxO/Desktop/Lab 7/inheritance/Vehicles.h
+	<iostream>
+
+1466957572 /tmp/guest-fOvAxO/Desktop/Lab 7/inheritance/Passenger.h
+	<iostream>
+
+1466957572 /tmp/guest-fOvAxO/Desktop/Lab 7/inheritance/Cargo.h
+	<iostream>
+
+1466957361 source:/tmp/guest-fOvAxO/Desktop/Lab 7/inheritance/inheritance.cpp
+	<iostream>
+	"Vehicles.h"
+	"Passenger.h"
+	"Cargo.h"
+

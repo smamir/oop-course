@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1466847057 source:/home/tuhin/Desktop/Untitled Folder/lab5/main.cpp
+	<iostream>
+	"INTEGER.h"
+
+1466443234 /home/tuhin/Desktop/Untitled Folder/lab5/INTEGER.h
+	<iostream>
+
